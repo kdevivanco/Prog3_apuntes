@@ -1,0 +1,13 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/Applications/CLion.app/Contents/bin/ninja/mac/ninja -G Ninja -S "/Users/macbookpro/Desktop/UTEC/2023-1/Programacion III/Ejercicios_en_clase/semana_12" -B "/Users/macbookpro/Desktop/UTEC/2023-1/Programacion III/Ejercicios_en_clase/semana_12/cmake-build-debug"
+-- Configuring done
+CMake Error at CMakeLists.txt:6 (add_executable):
+  Cannot find source file:
+
+    intro_estr_datos.cpp,
+
+
+CMake Error at CMakeLists.txt:6 (add_executable):
+  No SOURCES given to target: semana_12
+
+
+CMake Generate step failed.  Build files cannot be regenerated correctly.
